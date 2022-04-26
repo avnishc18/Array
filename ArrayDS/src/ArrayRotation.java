@@ -3,7 +3,7 @@
  * For example, if  left rotations are performed on array , then the array would become . 
  * Note that the lowest index item moves to the highest index in a rotation. This is called a circular array.
 
-Given an array  of  integers and a number, , perform  left rotations on the array. 
+Given an array  of  integers and a number, , perform  left rotations on the array. `
 Return the updated array to be printed as a single line of space-separated integers.
 
 Input arr[] = [1, 2, 3, 4, 5, 6, 7], d = 2, n =7
